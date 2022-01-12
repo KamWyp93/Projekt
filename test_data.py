@@ -17,3 +17,7 @@ EMAIL_ERROR = "Proszę o podanie prawidłowego adresu email."
 PASSWORD_ERROR = "Podane hasła różnią się."
 NAME_ERROR = "Proszę o podanie prawidłowego imienia."
 LAST_NAME_ERROR = "Proszę o podanie prawidłowego nazwiska."
+
+# CART TEST DATA
+SEARCH_TEXT = "Młotek wyburzeniowy"
+
